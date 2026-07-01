@@ -156,6 +156,43 @@ publishedISO: "2026-06-26",
 featured: false
 
 
+},
+
+  
+  {
+    id: 4,
+    slug: "solar-panel-cost-subsidy-guide-lucknow",
+    title: "Solar Panel Cost & Subsidy Guide for Lucknow Homeowners (2026)",
+  excerpt: "Lucknow mein solar ki 2026 cost, PM Surya Ghar aur UP subsidy, sahi system size, aur bharosemand installer chunne ka poora guide.",
+
+  category: "Residential Solar",
+
+  date: "July 1, 2026",
+
+  readTime: 12,
+
+  author: "Yashi Solar Team",
+
+  authorInitial: "Y",
+
+  image: "/blog/blog_img/solar-energy-india-guide.png",
+
+  imageAlt: "Rooftop solar panel installation on a residential home in Lucknow, Uttar Pradesh",
+
+  metaDescription: "Lucknow mein solar panel lagwane se pehle jaaniye 2026 ki cost, PM Surya Ghar aur UP state subsidy, system size, aur best installer chunne ka tarika.",
+
+  tags: [
+    "Solar Subsidy",
+    "PM Surya Ghar Yojana",
+    "Lucknow",
+    "Rooftop Solar",
+    "Net Metering",
+    "Uttar Pradesh"
+  ],
+
+  publishedISO: "2026-07-01",
+
+  featured: false
 }
 
 ];
