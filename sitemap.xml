@@ -69,5 +69,10 @@
     <loc>https://yashisolartech.in/blog/pm-surya-ghar-yojana-guide.html</loc>
     <priority>0.8</priority>
   </url>
-
+<url>
+    <loc>https://yashisolartech.in/blog/solar-energy-in-india-lucknow-homeowners-guide.html</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+</url>
 </urlset>
